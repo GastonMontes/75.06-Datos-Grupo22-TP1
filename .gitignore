@@ -106,3 +106,6 @@ venv.bak/
 tp2/datos
 tp2/TensorFlow/datos
 tp2/TensorFlow/ML/datos
+tp2/preds_como_feature/submit_kaggle
+tp2/preds_como_feature/test_and_train_auctions
+tp2/preds_como_feature/test_and_train_installs
